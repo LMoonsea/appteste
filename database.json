@@ -1,26 +1,40 @@
 {
-    "users": [
-        {
-            "id": "1",
-            "name": "Joca da Silva",
-            "email": "joca@silva.com"
-        },
-        {
-            "id": "2",
-            "name": "Maricleuza Sirineuza",
-            "email": "mari@cleuza.com"
-        }
-    ],
-    "comments": [
-        {
-            "id": "1",
-            "user": "1",
-            "text": "Não estou entendendo nada disso."
-        },
-        {
-            "id": "2",
-            "user": "2",
-            "text": "Eu tamém num tendi nada!"
-        }
-    ]
+  "users": [
+    {
+      "name": "Joca Silva",
+      "email": "joca@silva.com",
+      "status": "ativo",
+      "id": "1"
+    },
+    {
+      "name": "Mariclaudia Borrabotas",
+      "email": "mari@claudia.com",
+      "status": "ativo",
+      "id": "X_MjbSX"
+    },
+    {
+      "name": "Bibizinha Gnoma",
+      "email": "gaby@gnoma.com",
+      "status": "ativo",
+      "id": "rFfsDfA"
+    },
+    {
+      "name": "Bibizinha Gnoma",
+      "email": "gaby@gnoma.com",
+      "status": "ativo",
+      "id": "DJ_jGTP"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "user": "1",
+      "text": "Não estou entendendo nada disso."
+    },
+    {
+      "id": "2",
+      "user": "2",
+      "text": "Eu tamém num tendi nada!"
+    }
+  ]
 }
